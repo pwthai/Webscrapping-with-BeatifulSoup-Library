@@ -3,7 +3,6 @@ Hello this is a programming script using the BeautifulSoup library in python to 
 
 # Libraries
 These are the libaries you'll need
-Beautiful soup 4
-lxml
-requests
-
+- Beautiful soup 4
+- lxml
+- requests
